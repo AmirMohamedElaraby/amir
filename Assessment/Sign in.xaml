@@ -1,0 +1,39 @@
+﻿<Page x:Class="Assessment.Sign_in"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Assessment"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800" Background="AntiqueWhite"
+      Title="Sign_in">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="40*"/>
+            <ColumnDefinition Width="89*"/>
+            <ColumnDefinition Width="31*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="24*"/>
+            <RowDefinition Height="11*"/>
+            <RowDefinition Height="13*"/>
+            <RowDefinition Height="11*"/>
+            <RowDefinition Height="31*"/>
+        </Grid.RowDefinitions>
+
+
+        <ComboBox Margin="53,68,27,12" Name="combo" SelectionChanged="combo_SelectionChanged">
+            <ComboBoxItem Content="User" />
+        </ComboBox>
+        <Label Content="Log in" FontSize="50" FontWeight="Bold" Margin="90,10,135,30" Width="NaN" Height="NaN" Grid.Column="1"/>
+        <TextBox Margin="28,15,72,5" Name="user1" Grid.Row="1" Grid.Column="1"/>
+        <TextBox Margin="28,15,72,15" Name="password1" Grid.Row="2" Grid.Column="1"/>
+        <Button Content="Log in" FontWeight="Bold" FontSize="20" RenderTransformOrigin="0.2,2.929" Margin="272,47,28,72" Click="Button_Click" Grid.Row="4" Grid.Column="1"/>
+        <Button Content="Forget Password" HorizontalAlignment="Left" Margin="94,45,0,0" VerticalAlignment="Top" Height="40" Grid.Row="4" Click="Button_Click_4" Width="91"/>
+        <Button Content="SignUp" HorizontalAlignment="Left" Margin="90,40,0,0" VerticalAlignment="Top" Height="40" Width="77" Grid.Row="4" Grid.Column="1" Click="Button_Click_3"/>
+        <Label Content="UserName" HorizontalAlignment="Left" Margin="80,20,0,0" VerticalAlignment="Top" Grid.Row="1" Height="26" Width="65"/>
+        <Label Content="Password" HorizontalAlignment="Left" Margin="80,15,0,0" VerticalAlignment="Top" Width="65" Grid.Row="2" Height="26"/>
+
+    </Grid>
+</Page>

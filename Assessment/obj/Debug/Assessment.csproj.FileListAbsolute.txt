@@ -1,0 +1,102 @@
+C:\Users\IT\Desktop\Assessment\Assessment\obj\Debug\Assessment.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\Assessment\Assessment\obj\Debug\ForgetPassword.g.cs
+C:\Users\IT\Desktop\Assessment\Assessment\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Desktop\Assessment\Assessment\obj\Debug\Profile.g.cs
+C:\Users\IT\Desktop\Assessment\Assessment\obj\Debug\Sign in.g.cs
+C:\Users\IT\Desktop\Assessment\Assessment\obj\Debug\SignUp.g.cs
+C:\Users\IT\Desktop\Assessment\Assessment\obj\Debug\App.g.cs
+C:\Users\IT\Desktop\Assessment\Assessment\obj\Debug\Assessment_MarkupCompile.cache
+C:\Users\IT\Desktop\Assessment\Assessment\obj\Debug\Assessment_MarkupCompile.lref
+C:\Users\IT\Desktop\Assessment\Assessment\bin\Debug\Assessment.exe.config
+C:\Users\IT\Desktop\Assessment\Assessment\bin\Debug\Assessment.exe
+C:\Users\IT\Desktop\Assessment\Assessment\bin\Debug\Assessment.pdb
+C:\Users\IT\Desktop\Assessment\Assessment\obj\Debug\ForgetPassword.baml
+C:\Users\IT\Desktop\Assessment\Assessment\obj\Debug\MainWindow.baml
+C:\Users\IT\Desktop\Assessment\Assessment\obj\Debug\Profile.baml
+C:\Users\IT\Desktop\Assessment\Assessment\obj\Debug\Sign in.baml
+C:\Users\IT\Desktop\Assessment\Assessment\obj\Debug\SignUp.baml
+C:\Users\IT\Desktop\Assessment\Assessment\obj\Debug\Assessment.g.resources
+C:\Users\IT\Desktop\Assessment\Assessment\obj\Debug\Assessment.Properties.Resources.resources
+C:\Users\IT\Desktop\Assessment\Assessment\obj\Debug\Assessment.csproj.GenerateResource.cache
+C:\Users\IT\Desktop\Assessment\Assessment\obj\Debug\Assessment.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\Assessment\Assessment\obj\Debug\Assessment.exe
+C:\Users\IT\Desktop\Assessment\Assessment\obj\Debug\Assessment.pdb
+C:\Users\IT\Desktop\Assessment\Assessment\obj\Debug\App.baml
+C:\Users\IT\Desktop\Assessment\Assessment\obj\Debug\Assessment_Content.g.cs
+C:\Users\IT\Desktop\Assessment\Assessment\bin\Debug\EntityFramework.dll
+C:\Users\IT\Desktop\Assessment\Assessment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IT\Desktop\Assessment\Assessment\bin\Debug\EntityFramework.xml
+C:\Users\IT\Desktop\Assessment\Assessment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IT\Desktop\Assessment\Assessment\obj\Debug\Assessment.csproj.CopyComplete
+G:\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\Assessment.csproj.AssemblyReference.cache
+G:\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\ForgetPassword.g.cs
+G:\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\MainWindow.g.cs
+G:\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\Profile.g.cs
+G:\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\Sign in.g.cs
+G:\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\SignUp.g.cs
+G:\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\App.g.cs
+G:\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\Assessment_Content.g.cs
+G:\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\Assessment_MarkupCompile.cache
+G:\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\Assessment_MarkupCompile.lref
+G:\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\Assessment.exe
+G:\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\Assessment.pdb
+C:\Users\User\Desktop\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\Assessment.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\ForgetPassword.g.cs
+C:\Users\User\Desktop\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\Profile.g.cs
+C:\Users\User\Desktop\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\Sign in.g.cs
+C:\Users\User\Desktop\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\SignUp.g.cs
+C:\Users\User\Desktop\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\Assessment_Content.g.cs
+C:\Users\User\Desktop\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\Assessment_MarkupCompile.cache
+C:\Users\User\Desktop\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\Assessment_MarkupCompile.lref
+C:\Users\User\Desktop\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\Assessment.exe
+C:\Users\User\Desktop\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\Assessment.pdb
+C:\Users\User\Desktop\Amir Mohamed_W1\Assessment\Assessment\bin\Debug\Assessment.exe.config
+C:\Users\User\Desktop\Amir Mohamed_W1\Assessment\Assessment\bin\Debug\Assessment.exe
+C:\Users\User\Desktop\Amir Mohamed_W1\Assessment\Assessment\bin\Debug\Assessment.pdb
+C:\Users\User\Desktop\Amir Mohamed_W1\Assessment\Assessment\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Amir Mohamed_W1\Assessment\Assessment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Amir Mohamed_W1\Assessment\Assessment\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Amir Mohamed_W1\Assessment\Assessment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\App.baml
+C:\Users\User\Desktop\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\ForgetPassword.baml
+C:\Users\User\Desktop\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\Profile.baml
+C:\Users\User\Desktop\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\Sign in.baml
+C:\Users\User\Desktop\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\SignUp.baml
+C:\Users\User\Desktop\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\Assessment.g.resources
+C:\Users\User\Desktop\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\Assessment.Properties.Resources.resources
+C:\Users\User\Desktop\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\Assessment.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\Assessment.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Amir Mohamed_W1\Assessment\Assessment\obj\Debug\Assessment.csproj.CopyComplete
+C:\Users\User\Desktop\Assessment\Assessment\bin\Debug\Assessment.exe.config
+C:\Users\User\Desktop\Assessment\Assessment\bin\Debug\Assessment.exe
+C:\Users\User\Desktop\Assessment\Assessment\bin\Debug\Assessment.pdb
+C:\Users\User\Desktop\Assessment\Assessment\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Assessment\Assessment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Assessment\Assessment\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Assessment\Assessment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Assessment\Assessment\obj\Debug\Assessment.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Assessment\Assessment\obj\Debug\ForgetPassword.g.cs
+C:\Users\User\Desktop\Assessment\Assessment\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Assessment\Assessment\obj\Debug\Profile.g.cs
+C:\Users\User\Desktop\Assessment\Assessment\obj\Debug\Sign in.g.cs
+C:\Users\User\Desktop\Assessment\Assessment\obj\Debug\SignUp.g.cs
+C:\Users\User\Desktop\Assessment\Assessment\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Assessment\Assessment\obj\Debug\Assessment_Content.g.cs
+C:\Users\User\Desktop\Assessment\Assessment\obj\Debug\Assessment_MarkupCompile.cache
+C:\Users\User\Desktop\Assessment\Assessment\obj\Debug\Assessment_MarkupCompile.lref
+C:\Users\User\Desktop\Assessment\Assessment\obj\Debug\App.baml
+C:\Users\User\Desktop\Assessment\Assessment\obj\Debug\ForgetPassword.baml
+C:\Users\User\Desktop\Assessment\Assessment\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Assessment\Assessment\obj\Debug\Profile.baml
+C:\Users\User\Desktop\Assessment\Assessment\obj\Debug\Sign in.baml
+C:\Users\User\Desktop\Assessment\Assessment\obj\Debug\SignUp.baml
+C:\Users\User\Desktop\Assessment\Assessment\obj\Debug\Assessment.g.resources
+C:\Users\User\Desktop\Assessment\Assessment\obj\Debug\Assessment.Properties.Resources.resources
+C:\Users\User\Desktop\Assessment\Assessment\obj\Debug\Assessment.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Assessment\Assessment\obj\Debug\Assessment.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Assessment\Assessment\obj\Debug\Assessment.csproj.CopyComplete
+C:\Users\User\Desktop\Assessment\Assessment\obj\Debug\Assessment.exe
+C:\Users\User\Desktop\Assessment\Assessment\obj\Debug\Assessment.pdb
